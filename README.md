@@ -1,2 +1,2 @@
-# -cmpe273-spring20
+# cmpe273-spring20
 Enterprise Distributed Systems
